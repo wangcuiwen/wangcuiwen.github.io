@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /favicon.ico
-
-Sitemap:https://wangcuiwen.github.io/Sitemap.xml
